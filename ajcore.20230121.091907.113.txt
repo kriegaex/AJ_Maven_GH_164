@@ -1,0 +1,209 @@
+---- AspectJ Properties ---
+AspectJ Compiler 1.9.7 built on Thursday Jun 24, 2021 at 16:14:45 PDT
+---- Dump Properties ---
+Dump file: ajcore.20230121.091907.113.txt
+Dump reason: abort
+Dump on exception: true
+Dump at exit condition: abort
+---- System Properties ---
+java.specification.version=19
+sun.cpu.isalist=amd64
+sun.jnu.encoding=Cp1252
+java.class.path=C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.3\plugins\maven\lib\maven3\boot\plexus-classworlds-2.6.0.jar;C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.3\plugins\maven\lib\maven3\boot\plexus-classworlds.license
+java.vm.vendor=Oracle Corporation
+sun.arch.data.model=64
+user.variant=
+java.vendor.url=https://java.oracle.com/
+user.timezone=Europe/Berlin
+maven.conf=C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.3\plugins\maven\lib\maven3/conf
+java.vm.specification.version=19
+os.name=Windows 10
+sun.java.launcher=SUN_STANDARD
+user.country=DE
+sun.boot.library.path=C:\Program Files\Java\jdk-19\bin
+sun.java.command=org.codehaus.classworlds.Launcher -Didea.version=2022.3.1 clean test
+jdk.debug=release
+maven.home=C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.3\plugins\maven\lib\maven3
+sun.cpu.endian=little
+user.home=C:\Users\Alexander
+user.language=de
+sun.stderr.encoding=UTF-8
+java.specification.vendor=Oracle Corporation
+java.version.date=2022-10-18
+java.home=C:\Program Files\Java\jdk-19
+file.separator=\
+java.vm.compressedOopsMode=Zero based
+sun.stdout.encoding=UTF-8
+line.separator=
+
+java.vm.specification.vendor=Oracle Corporation
+java.specification.name=Java Platform API Specification
+user.script=
+sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+java.runtime.version=19.0.1+10-21
+user.name=Alexander
+stdout.encoding=UTF-8
+path.separator=;
+os.version=10.0
+java.runtime.name=Java(TM) SE Runtime Environment
+file.encoding=UTF-8
+guice.disable.misplaced.annotation.check=true
+java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+maven.ext.class.path=C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.3\plugins\maven\lib\maven-event-listener.jar
+java.vendor.url.bug=https://bugreport.java.com/bugreport/
+java.io.tmpdir=C:\Users\ALEXAN~1\AppData\Local\Temp\
+idea.version=2022.3.1
+java.version=19.0.1
+user.dir=C:\Users\Alexander\Documents\java-src\AJ_Maven_GH_164
+os.arch=amd64
+maven.multiModuleProjectDirectory=C:\Users\Alexander\Documents\java-src\AJ_Maven_GH_164
+jansi.passthrough=true
+java.vm.specification.name=Java Virtual Machine Specification
+sun.os.patch.level=
+native.encoding=Cp1252
+java.library.path=C:\Program Files\Java\jdk-19\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;c:\Program Files\Java\jdk-19\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Perl64\site\bin;C:\Perl64\bin;C:\Program Files (x86)\PC Connectivity Solution\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Bitvise SSH Client;C:\Program Files\Microsoft Network Monitor 3\;c:\Program Files\Java\apache-maven-3.8.4\bin;C:\Program Files\Java\AspectJ\bin;C:\Program Files (x86)\Subversion\bin;c:\Program Files (x86)\Graphviz2.38\bin;C:\Program Files (x86)\Common Files\Adobe\AGL;C:\Program Files (x86)\Universal Extractor;C:\Program Files (x86)\Universal Extractor\bin;C:\Program Files\SlikSvn\bin;C:\Program Files\gmt5\bin;C:\Program Files (x86)\GNU\GnuPG\pub;c:\Program Files\Java\apache-ant-1.10.1\bin;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Crucial\Crucial Storage Executive;C:\Users\Alexander;C:\Users\Alexander\AppData\Local\Microsoft\WindowsApps;;.
+java.vm.info=mixed mode, sharing
+stderr.encoding=UTF-8
+java.vendor=Oracle Corporation
+java.vm.version=19.0.1+10-21
+classworlds.conf=C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.3\plugins\maven\lib\maven3\bin\m2.conf
+sun.io.unicode.encoding=UnicodeLittle
+java.class.version=63.0
+---- Command Line ---
+-Xajruntimetarget:1.5
+-Xlint:warning
+-1.8
+-encoding
+UTF-8
+-showWeaveInfo
+-source
+1.8
+-target
+1.8
+-classpath
+C:\Users\Alexander\Documents\java-src\AJ_Maven_GH_164\application\target\classes;C:\Users\Alexander\Documents\java-src\AJ_Maven_GH_164\base\target\classes;C:\Users\Alexander\.m2\repository\org\aspectj\aspectjrt\1.9.7\aspectjrt-1.9.7.jar;C:\Users\Alexander\.m2\repository\org\aspectj\aspectjtools\1.9.7\aspectjtools-1.9.7.jar;C:\Users\Alexander\Documents\java-src\AJ_Maven_GH_164\aspectj\target\classes
+-inpath
+C:\Users\Alexander\Documents\java-src\AJ_Maven_GH_164\application\target\classes
+-aspectpath
+C:\Users\Alexander\Documents\java-src\AJ_Maven_GH_164\base\target\classes
+-d
+C:\Users\Alexander\Documents\java-src\AJ_Maven_GH_164\aspectj\target\classes
+-s
+C:\Users\Alexander\Documents\java-src\AJ_Maven_GH_164\aspectj\target\generated-sources\aspectj-maven-plugin
+C:\Users\Alexander\Documents\java-src\AJ_Maven_GH_164\aspectj\src\main\java\SecondAspect.java
+---- Full Classpath ---
+C:\Program Files\Java\jdk-19\lib\jrt-fs.jar(110832 bytes)
+C:\Users\Alexander\Documents\java-src\AJ_Maven_GH_164\application\target\classes(2 entries)
+C:\Users\Alexander\Documents\java-src\AJ_Maven_GH_164\base\target\classes(3 entries)
+C:\Users\Alexander\Documents\java-src\AJ_Maven_GH_164\application\target\classes(2 entries)
+C:\Users\Alexander\Documents\java-src\AJ_Maven_GH_164\base\target\classes(3 entries)
+C:\Users\Alexander\.m2\repository\org\aspectj\aspectjrt\1.9.7\aspectjrt-1.9.7.jar(122874 bytes)
+C:\Users\Alexander\.m2\repository\org\aspectj\aspectjtools\1.9.7\aspectjtools-1.9.7.jar(14796687 bytes)
+C:\Users\Alexander\Documents\java-src\AJ_Maven_GH_164\aspectj\target\classes(4 entries)
+---- Compiler Messages ---
+warning at C:\Users\Alexander\Documents\java-src\AJ_Maven_GH_164\base\target\classes!\FirstAspect.class::0 can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+info Pipelining compilation
+info compiling C:\Users\Alexander\Documents\java-src\AJ_Maven_GH_164\aspectj\src\main\java\SecondAspect.java
+info weaver operating in reweavable mode.  Need to verify any required types exist.
+info woven aspect SecondAspect (from C:\Users\Alexander\Documents\java-src\AJ_Maven_GH_164\aspectj\src\main\java\SecondAspect.java)
+info woven class MarkerTwo (from C:\Users\Alexander\Documents\java-src\AJ_Maven_GH_164\application\target\classes\MarkerTwo.class)
+warning at \Application.java:5::0 at this shadow method-execution(void Application.greet(java.lang.String)) no precedence is specified between advice applying from aspect FirstAspect and aspect SecondAspect [Xlint:unorderedAdviceAtShadow]
+abort trouble in: 
+public class Application extends java.lang.Object:
+  public void <init>():
+                    ALOAD_0     // LApplication; this   (line 1)
+                    INVOKESPECIAL java.lang.Object.<init> ()V
+    constructor-execution(void Application.<init>())
+    |               RETURN
+    constructor-execution(void Application.<init>())
+  end public void <init>()
+
+  public void greet(String):
+                    ALOAD_1
+                    ASTORE_2
+                    GETSTATIC Application.ajc$tjp_0 Lorg/aspectj/lang/JoinPoint$StaticPart;
+                    ALOAD_0
+                    ALOAD_0
+                    ALOAD_2
+                    INVOKESTATIC org.aspectj.runtime.reflect.Factory.makeJP (Lorg/aspectj/lang/JoinPoint$StaticPart;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)Lorg/aspectj/lang/JoinPoint;
+                    ASTORE_3
+    method-execution(void Application.greet(java.lang.String))
+    |               GETSTATIC java.lang.System.out Ljava/io/PrintStream;   (line 5)
+    |               NEW java.lang.StringBuilder
+    |               DUP
+    |               INVOKESPECIAL java.lang.StringBuilder.<init> ()V
+    |               LDC "Hello "
+    |               INVOKEVIRTUAL java.lang.StringBuilder.append (Ljava/lang/String;)Ljava/lang/StringBuilder;
+    |               ALOAD_1     // Ljava/lang/String; name
+    |               INVOKEVIRTUAL java.lang.StringBuilder.append (Ljava/lang/String;)Ljava/lang/StringBuilder;
+    |               LDC "!"
+    |               INVOKEVIRTUAL java.lang.StringBuilder.append (Ljava/lang/String;)Ljava/lang/StringBuilder;
+    |               INVOKEVIRTUAL java.lang.StringBuilder.toString ()Ljava/lang/String;
+    |               INVOKEVIRTUAL java.io.PrintStream.println (Ljava/lang/String;)V
+    |               RETURN   (line 6)
+    method-execution(void Application.greet(java.lang.String))
+  end public void greet(String)
+
+  public static void main(String[]):
+                    NEW Application   (line 9)
+                    DUP
+                    INVOKESPECIAL Application.<init> ()V
+                    LDC "world"
+                    INVOKEVIRTUAL Application.greet (Ljava/lang/String;)V
+                    RETURN   (line 10)
+  end public static void main(String[])
+
+end public class Application
+ -- (ArrayIndexOutOfBoundsException) Index 1 out of bounds for length 1
+Index 1 out of bounds for length 1
+java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at org.aspectj.weaver.bcel.BcelShadow.prepareForMungers(BcelShadow.java:379)
+	at org.aspectj.weaver.Shadow.implement(Shadow.java:546)
+	at org.aspectj.weaver.bcel.BcelClassWeaver.implement(BcelClassWeaver.java:3361)
+	at org.aspectj.weaver.bcel.BcelClassWeaver.weave(BcelClassWeaver.java:499)
+	at org.aspectj.weaver.bcel.BcelClassWeaver.weave(BcelClassWeaver.java:103)
+	at org.aspectj.weaver.bcel.BcelWeaver.weave(BcelWeaver.java:1707)
+	at org.aspectj.weaver.bcel.BcelWeaver.weaveWithoutDump(BcelWeaver.java:1651)
+	at org.aspectj.weaver.bcel.BcelWeaver.weaveAndNotify(BcelWeaver.java:1418)
+	at org.aspectj.weaver.bcel.BcelWeaver.weave(BcelWeaver.java:1192)
+	at org.aspectj.ajdt.internal.compiler.AjPipeliningCompilerAdapter.weaveQueuedEntries(AjPipeliningCompilerAdapter.java:510)
+	at org.aspectj.ajdt.internal.compiler.AjPipeliningCompilerAdapter.queueForWeaving(AjPipeliningCompilerAdapter.java:446)
+	at org.aspectj.ajdt.internal.compiler.AjPipeliningCompilerAdapter.afterProcessing(AjPipeliningCompilerAdapter.java:431)
+	at org.aspectj.ajdt.internal.compiler.CompilerAdapter.ajc$after$org_aspectj_ajdt_internal_compiler_CompilerAdapter$5$6b855184(CompilerAdapter.aj:104)
+	at org.aspectj.org.eclipse.jdt.internal.compiler.Compiler.process(Compiler.java:943)
+	at org.aspectj.org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:576)
+	at org.aspectj.org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:476)
+	at org.aspectj.org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:427)
+	at org.aspectj.ajdt.internal.core.builder.AjBuildManager.performCompilation(AjBuildManager.java:1096)
+	at org.aspectj.ajdt.internal.core.builder.AjBuildManager.performBuild(AjBuildManager.java:275)
+	at org.aspectj.ajdt.internal.core.builder.AjBuildManager.batchBuild(AjBuildManager.java:188)
+	at org.aspectj.ajdt.ajc.AjdtCommand.doCommand(AjdtCommand.java:103)
+	at org.aspectj.ajdt.ajc.AjdtCommand.runCommand(AjdtCommand.java:47)
+	at org.aspectj.tools.ajc.Main.run(Main.java:372)
+	at org.aspectj.tools.ajc.Main.runMain(Main.java:250)
+	at org.codehaus.mojo.aspectj.AbstractAjcCompiler.execute(AbstractAjcCompiler.java:568)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:210)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:156)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:148)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:305)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:192)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:105)
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:957)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:289)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:193)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
+	at org.codehaus.classworlds.Launcher.main(Launcher.java:47)
+
+info woven class Application (from C:\Users\Alexander\Documents\java-src\AJ_Maven_GH_164\application\target\classes\Application.class)
+warning at C:\Users\Alexander\Documents\java-src\AJ_Maven_GH_164\aspectj\src\main\java\SecondAspect.java:11::0 advice defined in SecondAspect has not been applied [Xlint:adviceDidNotMatch]
+warning at C:\Users\Alexander\Documents\java-src\AJ_Maven_GH_164\base\target\classes!\FirstAspect.class::0 advice defined in FirstAspect has not been applied [Xlint:adviceDidNotMatch]
